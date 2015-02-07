@@ -1,4 +1,4 @@
-package algorithms.hashmap;
+package algorithms.datastructures.hashmap;
 
 /**
  * @author vkavuluri
